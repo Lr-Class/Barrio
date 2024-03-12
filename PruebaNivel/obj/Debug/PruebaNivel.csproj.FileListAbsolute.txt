@@ -1,0 +1,7 @@
+C:\Users\UNICESAR\Desktop\Votacion\PruebaNivel\bin\Debug\PruebaNivel.exe.config
+C:\Users\UNICESAR\Desktop\Votacion\PruebaNivel\bin\Debug\PruebaNivel.exe
+C:\Users\UNICESAR\Desktop\Votacion\PruebaNivel\bin\Debug\PruebaNivel.pdb
+C:\Users\UNICESAR\Desktop\Votacion\PruebaNivel\obj\Debug\PruebaNivel.csproj.AssemblyReference.cache
+C:\Users\UNICESAR\Desktop\Votacion\PruebaNivel\obj\Debug\PruebaNivel.csproj.CoreCompileInputs.cache
+C:\Users\UNICESAR\Desktop\Votacion\PruebaNivel\obj\Debug\PruebaNivel.exe
+C:\Users\UNICESAR\Desktop\Votacion\PruebaNivel\obj\Debug\PruebaNivel.pdb
